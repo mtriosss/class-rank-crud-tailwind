@@ -1,0 +1,1 @@
+<div class="bg-gray-800 text-center p-1 text-xl text-white">DATA RANKS</div>
